@@ -104,7 +104,7 @@ namespace BMI_Calculator
                 customer1.statusTitle = "Obese";
             }
             
-            //MessageBox.Show($"The customers name is {First_Name_Box.Text} and they can be reached at {Phone_Box.Text}. They are {Height_Inches_box.Text} inches tall. Their weight is {Weights_lbs_box.Text} pounds.");
+            //MessageBox.Show($"The customers name is {First_Name_Box.Text} {Last_Name_Box.Text} and they can be reached at {Phone_Box.Text}. They are {Height_Inches_box.Text} inches tall. Their weight is {Weights_lbs_box.Text} pounds.");
         }
 
 
